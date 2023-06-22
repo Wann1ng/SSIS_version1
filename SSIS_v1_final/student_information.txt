@@ -1,0 +1,5 @@
+2029,BSCS,2,Nancy,M.,Sayson
+2028,BSCS,2,Joanna,R.,Giga
+2027,BSCS,2,Carlo,M.,Arellano
+202777,BSIT,2,George,A.,Daguman
+2023-1278,BSBA,2,Romeo,G.,Guillano

@@ -1,0 +1,8 @@
+BSEE,Electrical
+BSCHEM,Chemistry
+BSBA, Business Administration
+BSHM,Hosptiality Management
+BSCS,Computer Science
+BSCA, Computer Applications
+BSIT,Information Technology
+BSIS,Information Technology
